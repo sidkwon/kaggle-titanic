@@ -1,4 +1,4 @@
 .ipynb_checkpoints
-*.pkl
+*.csv
 seaborn.ipynb
 submission.csv
